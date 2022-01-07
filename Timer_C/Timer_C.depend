@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1641563215 source:/home/antonio/Scrivania/Scuola/ARDUINO/Timer_C/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<sys/time.h>
+	<unistd.h>
+
