@@ -1,0 +1,1 @@
+Test of timing function to create a delay in millisecs and to get time in millisecs.
